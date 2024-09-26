@@ -1,6 +1,6 @@
 README.md
 # Chochmana
-Hello World repository for Git tutorial
+hello-world-git3 repository using Git tutorial from w3schools
 This is an example repository for the Git tutoial on https://www.w3schools.com
 This tutorial focuses mainly on Git and using Github as its remote.
 
